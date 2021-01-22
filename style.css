@@ -1,0 +1,50 @@
+.travel_post {
+    border: 1px solid #e3e3e3;
+}
+
+.travel_post h5,
+.travel_post p {
+    margin-left: 20px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    text-align: justify;
+    margin-right: 20px
+}
+
+.travel_post:hover {
+    box-shadow: 0 0 20px
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
